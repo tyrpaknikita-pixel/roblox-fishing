@@ -1,0 +1,9 @@
+world/*.lock
+world/*.rbxl.autosave
+*.log
+.DS_Store
+Thumbs.db
+.tools/
+world/.scene-snapshot.json
+world/fishing-next.rbxl
+world/backups/
